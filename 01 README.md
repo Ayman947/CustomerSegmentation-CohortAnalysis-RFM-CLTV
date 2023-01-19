@@ -113,7 +113,7 @@
   | 3 | Champions | 1% | 313 | 19 | 52 | 3425 | 2290 |
   | 4 | Potential Loyalists | 6% | 263 | 42 | 14 | 943 | 25846 |
   
-  - ![3d RFM Clusters]([link](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-3d-rfm.PNG))
+  - ![3d RFM Clusters](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-3d-rfm.PNG)
   - ![Clusters Features Relative Importance]([link](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-relative-importance.PNG))
   
   - [Dashboard Name](link)

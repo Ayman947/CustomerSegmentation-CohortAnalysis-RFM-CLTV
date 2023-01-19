@@ -94,7 +94,7 @@
   - Scaling (normalizing) the data.
 
 
-  # **Modeling**
+  ## **Modeling**
 
   - We've built **KMeans** with **4 clusters** model to group **customers** using **RFM** behaviors. The models showed **0.521 Silhouette** score.
   - We've used **BG/NBD** & **Gamma-Gamma** models to predict 6-month customers' **orders & CLTVs**.
@@ -102,7 +102,7 @@
 
 
 
-  # **Final Results**
+  ## **Final Results**
 
   - [Predicted Data Name](link)
   - ![Insight_Description](link)
@@ -110,20 +110,20 @@
 
 
 
-  # **Recommendations**
+  ## **Recommendations**
 
   - csd
   - vdf
 
 
 
-  # **Conclusion**
+  ## **Conclusion**
 
   - ###
   - ###
 
 
-  # **Appendix**
+  ## **Appendix**
 
   - (Code-Dashboard-Paper)
   - Presentation Storytelling

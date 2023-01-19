@@ -139,8 +139,46 @@
 
   ## **Recommendations**
 
-  - csd
-  - vdf
+> **Based on the insights above, marketing activities can be strategized and  customized to fit the different customers profiles:**
+ 
+
+- **Champions ≈ 1%:**
+
+   - These customers may be <u>rewarded</u> to stay <u>loyal</u> to our company. 
+   - <u>Communication</u> with this group should make them feel <u>valued and appreciated</u>
+   - Also, They can become early adopters of new products and will help promote the brand.
+
+
+- **Potential Loyalists ≈ 6%:**
+
+  - These customers may be offered <u>membership, loyalty programs or recommend related products</u> to upsell them and help to make them Champions.
+
+
+- **Low-Spending Churned & About to Churned Customers ≈ 93%**
+  
+  - <u>Retention & reactivation</u> campaigns may be launched to make them order again, but it's also important to take their <u>CLVs</u> into consideration to be still <u>profitable customers</u>. 
+
+
+- Referencing the heatmap above, it's obvious that **after the Nov 2021's cohort**, the company's **retention rate is decreasing drastically**. (i.e a lot of users are **churned**, which was observed above in the segmentation's results.)
+ 
+- So, the marketing team needs to launch **activation & retention campaigns**. But, to still be operating efficiently, **CLVs** should be used in the campaigns' **budgeting and planning**.
+
+- **Having known the CLVs, budgets for retention & activation campaigns will be set in a more feasible way**.
+
+  (i.e customer retention or activation cost shouldn't be higher than his/her CLV)
+
+- Below is the **CLV corresponding to every segment**:
+
+    - Champions  ≈ 640
+    - Loyal Customers ≈ 120
+    - Need Attention ≈ 45
+    - Hibernating ≈ 10
+
+- **CLV improvement tips:**
+
+  - **Automating customized marketing** actions using softwares.
+  - Increasing **customer satisfaction** to prolong their customer lifespan
+  - Encouraging additional purchases without increasing the marketing budget, which can be done by **selling complementary services**.
 
 
 

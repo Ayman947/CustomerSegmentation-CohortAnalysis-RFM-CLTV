@@ -104,7 +104,7 @@
 
   ## **Final Results**
 
-  - KMeans model grouped the customers into 4 groups based on their RFM data.
+  - KMeans model grouped the customers into **4 groups** based on their **RFM data**.
 
   | Cluster | Name | %_users | avg_tenure | avg_recency | avg_frequency | avg_monetary | #_users |
   | ------- | ---- | ------- | ---------- | ----------- | ------------- | ------------ | ------- |
@@ -112,9 +112,24 @@
   | 2 | Low-Spending Churned | 32% | 276 | 264 | 2 | 91 | 135992 |
   | 3 | Champions | 1% | 313 | 19 | 52 | 3425 | 2290 |
   | 4 | Potential Loyalists | 6% | 263 | 42 | 14 | 943 | 25846 |
-  
+
   ![3d RFM Clusters](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-3d-rfm.PNG)
+
   ![Clusters Features Relative Importance](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-relative-importance.PNG)
+  
+  
+  
+  - Customers are grouped into **4 segments** according to their **CLTVs**.
+  
+  | Segment | Recency | Tenure | Frequency | Monetary | 6_monhths_clv |
+  | ------- | ------- | ------ | --------- | -------- | ------------- |
+  | Hibernating | 113 | 250 | 7 | 403 |  8 |
+  | Need Attention | 188 | 207 | 1 | 67 | 47 |
+  | Loyal Customers | 136 | 159 | 2 | 100 |  119 |
+  | Champions | 97 | 120 | 3 | 193 | 639 |
+  
+  ![Segment CLTVS](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/users-segment-CLV.PNG)
+  
   
   - [Dashboard Name](link)
 

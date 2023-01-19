@@ -60,18 +60,18 @@
 
   | Package Name | Functionality                 |
   |--------------|-------------------------------|
-  | Pandas       | Data Manipulation             |
-  | numpy        | Numerical Calculations & Array Manipulations   |
-  | matplotlib   | Data Visualizatiom            |
-  | seaborn      | Data Visualizatiom            |
-  | yellowbrick  | Clustering Models Visualization |
-  | sklearn      | Machine Learning Algorithms   |
-  | mpl_toolkits | 3d Plotting |
-  | lifetimes    | CLTV Predictions |
-  | hdbscan      | HDBSCAN Clustering Model | 
-  | missingno    | Visualizing Null Values |
   | datetime     | Date/Time manipulations |
+  | hdbscan      | HDBSCAN Clustering Model |
+  | lifetimes    | CLTV Predictions |  
+  | matplotlib   | Data Visualizatiom            |  
+  | missingno    | Visualizing Null Values |
+  | mpl_toolkits | 3d Plotting |  
+  | numpy        | Numerical Calculations & Array Manipulations   |
+  | Pandas       | Data Manipulation             |
   | pandasql     | Writing SQL in Python |
+  | seaborn      | Data Visualizatiom            |
+  | sklearn      | Machine Learning Algorithms   |
+  | yellowbrick  | Clustering Models Visualization |
 
 
 
@@ -82,32 +82,16 @@
   - Checking for duplicates.
   - Checking for nulls.
   - Sorting our dataframe by order_datetime
-
-
-  # **EDA Insights**
-
-  - ![Model_Insight_Description](link)
-  - ![Model_Insight_Description](link)
-
-
-
-
+  - Extracting RFM data from the transactions data.
+  - Extracting Cohorts data from the transactions data.
+  - Extracting Monthly KPIs data from the transactions data.
+  - Scaling (normalizing) the data.
 
 
   # **Modeling**
 
-  - We've built **[[ML Algo]]** to predict **[[target]]** using **[[Inputs]]**.
-
-  | HyperParameters | Values   |
-  |-----------------|----------|
-  |                 |          |
-  |                 |          |
-
-  - Our model's accuracy is **[[## %]]** (i.e For every 100 predictions, there are ## predictions are true.)
-
-  - ![Model_Insight_Description](link)
-
-
+  - We've built **KMeans** with **4 clusters** model to group **customers** using **RFM** behaviors. The models showed 0.521 Silhouette score.
+  - We've used **BG/NBD** & **Gamma-Gamma** models to predict 6-month customers' **orders & CLTVs**.
 
 
 
@@ -137,3 +121,4 @@
   - (Code-Dashboard-Paper)
   - Presentation Storytelling
 
+GRAMMERLY

@@ -98,6 +98,7 @@
 
   - We've built **KMeans** with **4 clusters** model to group **customers** using **RFM** behaviors. The models showed **0.521 Silhouette** score.
   - We've used **BG/NBD** & **Gamma-Gamma** models to predict 6-month customers' **orders & CLTVs**.
+  - We've built a BI **KPIs dashboard** using **Tableau**.
 
 
 

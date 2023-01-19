@@ -183,13 +183,7 @@
 
   ## **Conclusion**
 
-  - ###
-  - ###
+-	RFM customer segmentation using K Means clustering algorithm is an excellent marketing tool for more customized and effective targeting.
+-	Customer lifetime value prediction using Gamma-Gamma model is a great way to get valuable insights into planning feasible and efficient campaigns.
+-	Business intelligence dashboards are indispensable tools for tracking business KPIs performance.
 
-
-  ## **Appendix**
-
-  - (Code-Dashboard-Paper)
-  - Presentation Storytelling
-
-GRAMMERLY

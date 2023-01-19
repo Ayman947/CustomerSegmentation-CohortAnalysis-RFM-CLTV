@@ -104,8 +104,18 @@
 
   ## **Final Results**
 
-  - [Predicted Data Name](link)
-  - ![Insight_Description](link)
+  - KMeans model grouped the customers into 4 groups based on their RFM data.
+
+  | Cluster | Name | %_users | avg_tenure | avg_recency | avg_frequency | avg_monetary | #_users |
+  | ------- | ---- | ------- | ---------- | ----------- | ------------- | ------------ | ------- |
+  | 1 | Low-Spending About to Churned | 61% | 126 | 76 | 2 | 127 | 256383 |
+  | 2 | Low-Spending Churned | 32% | 276 | 264 | 2 | 91 | 135992 |
+  | 3 | Champions | 1% | 313 | 19 | 52 | 3425 | 2290 |
+  | 4 | Potential Loyalists | 6% | 263 | 42 | 14 | 943 | 25846 |
+  
+  - ![3d RFM Clusters]([link](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-3d-rfm.PNG))
+  - ![Clusters Features Relative Importance]([link](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/clusters-relative-importance.PNG))
+  
   - [Dashboard Name](link)
 
 

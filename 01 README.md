@@ -132,7 +132,8 @@
   
   
   - A BI KPIs dashboard was built to monitor active users, orders and revenues.
-![KPIs Dashboard]([https://user-images.githubusercontent.com/66120139/213547342-4fdefc6d-befa-4fc0-a0a8-84b407b45ac7.png](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/KPIs-Dashboard.PNG)
+
+![KPIs Dashboard](https://user-images.githubusercontent.com/66120139/213547342-4fdefc6d-befa-4fc0-a0a8-84b407b45ac7.png](https://github.com/Ayman947/Marketing-RFM-CLTV-Segmentation/blob/main/KPIs-Dashboard.PNG)
   
 
 

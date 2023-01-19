@@ -139,6 +139,8 @@
 
   ## **Recommendations**
 
+> RFM-based Recommendations
+
 > **Based on the insights above, marketing activities can be strategized and  customized to fit the different customers profiles:**
  
 
@@ -159,22 +161,19 @@
   - <u>Retention & reactivation</u> campaigns may be launched to make them order again, but it's also important to take their <u>CLVs</u> into consideration to be still <u>profitable customers</u>. 
 
 
-- Referencing the heatmap above, it's obvious that **after the Nov 2021's cohort**, the company's **retention rate is decreasing drastically**. (i.e a lot of users are **churned**, which was observed above in the segmentation's results.)
- 
-- So, the marketing team needs to launch **activation & retention campaigns**. But, to still be operating efficiently, **CLVs** should be used in the campaigns' **budgeting and planning**.
 
-- **Having known the CLVs, budgets for retention & activation campaigns will be set in a more feasible way**.
+> CLTV-based Recommendations
 
-  (i.e customer retention or activation cost shouldn't be higher than his/her CLV)
+> **Having known the CLTVs, budgets for retention & activation campaigns will be set in a more feasible way**.
 
-- Below is the **CLV corresponding to every segment**:
+- Below is the **CLTV corresponding to every segment**:
 
     - Champions  ≈ 640
     - Loyal Customers ≈ 120
     - Need Attention ≈ 45
     - Hibernating ≈ 10
 
-- **CLV improvement tips:**
+- **CLTV improvement tips:**
 
   - **Automating customized marketing** actions using softwares.
   - Increasing **customer satisfaction** to prolong their customer lifespan

@@ -46,6 +46,12 @@
 
 ## **Data Sources**
 
+- **About:** This is the ordering transactional data set that contains all of the last 12 months’ transactions.
+- **Date:** 30th September 2021 to 31st October, 2022
+- **Rows:** 1,276,436 rows
+- **Columns:** 5 columns
+- **Data Dictionary:**
+
 | Column Name | Description | Sample Value  |
 |-------------|-------------|---------------|
 | Order Id    | The order's unique Id  | 211216115328MQGI |
